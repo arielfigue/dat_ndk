@@ -27,7 +27,7 @@
        El que lee esto es un pluto   
     """,
     'website': 'http://www.humanytek.com',
-    'depends': ['base','sale'],
+    'depends': ['sale'],
     'category': 'Datos',
     'sequence':,
     'demo': [],

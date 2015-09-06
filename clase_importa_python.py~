@@ -30,7 +30,7 @@ for r in reader:
     linea = linea + '\t\t</record>\n'
 
     print 'linea '+str(l)+" - "+r["Nombre"]
-    time.sleep(1)
+#    time.sleep(1)
 
 linea = linea + '\t</data>\n'
 linea = linea + '</openerp>'
